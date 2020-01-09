@@ -1,0 +1,10 @@
+Press "=" to switch from classify vector to not classify vector
+Press "b" to switch from Lerp average to log-spiral average
+Press "2" to show the vector field on the center of the triangles
+Press "5" to show the single trace
+Press "4" to toggle on or off the colored triangle
+Press "6" to show traces and samples
+Press "7" to toggle on or off showing the continuous points on the traces
+Press "8" to generate new mesh on the traces
+Press "9" to show the colored edges which are on the traces
+
